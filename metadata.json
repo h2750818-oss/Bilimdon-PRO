@@ -1,0 +1,8 @@
+{
+  "name": "Bilimdon PRO — Learn, Play, Achieve",
+  "description": "Interactive multilingual educational quiz platform for learning mathematics, history, geography, English, and general knowledge with progress tracking, achievements, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
